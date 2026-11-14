@@ -1,0 +1,6 @@
+{
+  "name": "ELEVORA AI",
+  "description": "Discover Your Potential. Build Your Future. Intelligent career guidance, AI skill gap analysis, personalized learning roadmaps, and interactive mock interviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
